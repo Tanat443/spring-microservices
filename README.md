@@ -67,7 +67,7 @@ s.?(_t)f.?(_n)*(_a)s.?(_t)f.?(_a)a.?]}{M[m(_a)A!(_f)F!(_o)O!(_n)=(_nlm)
 
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tanat443&theme=cobalt&date_format=j%20M%5B%20Y%5D&card_width=800)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tanat443&theme=cobalt&date_format=j%20M%5B%20Y%5D&card_width=1000)](https://git.io/streak-stats)
 
 
 
